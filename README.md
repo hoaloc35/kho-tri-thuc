@@ -22,3 +22,4 @@ Xây dựng kho tri thức cục bộ chạy trên Samsung A73 + GitHub, tích h
 ## 📂 Cấu trúc
 
 
+Cập nhật ngày 21/08: Hoàn thiện 700 Agent + Tích hợp 10 nguồn GitHub + Quy trình nhân vật
